@@ -1,1 +1,2 @@
 This is FileB.txt
+This is a change in FileB.txt
